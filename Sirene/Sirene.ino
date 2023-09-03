@@ -19,7 +19,7 @@
 #define EEPROM_SIZE 160
 
 const char* ssid = "Miguel";
-const char* password = "244466666";
+const char* password = "**********";
 
 const char * Hostname = "sirenetcc.shop";
 String URI = "/setup.json";
